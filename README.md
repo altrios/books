@@ -1,2 +1,1 @@
-# books
-Babbo test back
+Para esta prueba opte por usar url's para las imagenes por problemas de importacion de librerias en react native, se implemento nodemon para la facil ejecucion ya ctualizacion de librerias y el proyecto en si, con lo cual para ejecutar el backend solo basta con escribir en la consola "nodemon"
